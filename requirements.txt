@@ -1,1 +1,2 @@
 PyAutoGUI
+win10toast-click
