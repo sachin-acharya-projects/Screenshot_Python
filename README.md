@@ -11,4 +11,4 @@ or
 pip install -r requirements.txt
 ````
 ### Download
-[Download Installer V1](Distributions/v1/*.exe)
+[Download Installer V1](Distribution/v1/ScreenCaptureInstallerv100.exe)
