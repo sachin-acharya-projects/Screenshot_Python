@@ -12,3 +12,4 @@ pip install -r requirements.txt
 ````
 ### Download
 [Download Installer V1](Distribution/v1/ScreenCaptureInstallerv100.exe)
+<a href='Distribution/v1/ScreenCaptureInstallerv100.exe' download>Download Installer v1</a>
