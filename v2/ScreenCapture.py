@@ -12,6 +12,7 @@ class Ui_MainWindow(object):
         icon = QtGui.QIcon()
         icon.addPixmap(QtGui.QPixmap(":/icons/icon.ico"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         MainWindow.setWindowIcon(icon)
+        MainWindow.showMaximized()
         self.mainWindow = MainWindow
         self.toaster = ToastNotifier()
         MainWindow.setStyleSheet("*{\n"
